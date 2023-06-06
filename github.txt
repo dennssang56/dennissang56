@@ -5,3 +5,5 @@ Add our codebase to the git transporter pipeline
 Commid the codebase that was added
 Create a connection between the local environment with the remote environment
 Push the codebade to the remote environment
+
+***Branching, pull request and merging 
